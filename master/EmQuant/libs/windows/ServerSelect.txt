@@ -1,0 +1,1 @@
+{"ServerSelect":[{"Net":2,"Type":1},{"Net":2,"Type":2},{"Net":1,"Type":3},{"Net":1,"Type":4},{"Net":1,"Type":5},{"Net":1,"Type":6},{"Net":1,"Type":7},{"Net":1,"Type":8},{"Net":1,"Type":9},{"Net":1,"Type":10},{"Net":1,"Type":11},{"Net":1,"Type":12},{"Net":1,"Type":13},{"Net":2,"Type":17},{"Net":1,"Type":201},{"Net":1,"Type":202}]}
