@@ -34,8 +34,8 @@ class DataHandler:
         # data.reset_index(drop=False, inplace=True)
         season_str = '{}SE{}'.format(year, season)
         data.drop('DATES', axis=1, inplace=True)
-        data.rename(columns={'INCOMESTATEMENTQ_83': '{}ISTQ83'.format(
-            season_str), 'INCOMESTATEMENTQ_80': '{}ISTQ80'.format(season_str)}, inplace=True)
+        data.rename(columns={'INCOMESTATEMENTQ_83': '{}-ISTQ83'.format(
+            season_str), 'INCOMESTATEMENTQ_80': '{}-ISTQ80'.format(season_str)}, inplace=True)
         self.data_list.append(data)
         print(season_str)
 
