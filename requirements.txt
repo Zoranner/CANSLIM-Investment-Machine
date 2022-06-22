@@ -1,7 +1,7 @@
 autopep8==1.5.2
 et-xmlfile==1.0.1
 jdcal==1.4.1
-numpy==1.18.4
+numpy==1.22.0
 openpyxl==3.0.3
 pandas==1.0.3
 pycodestyle==2.5.0
